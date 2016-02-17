@@ -1,0 +1,3 @@
+#!/usr/bin/env ruby
+require 'slarify/slarify'
+Slarify::Slarify.start
